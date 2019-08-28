@@ -7,7 +7,10 @@ class Login extends Component{
   }
 
   render() {
-    return <div>Login----</div>
+    return <div>
+     登录
+
+    </div>
   }
 }
 
